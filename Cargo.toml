@@ -1,0 +1,9 @@
+[package]
+name = "tree_model"
+version = "0.1.0"
+authors = ["Li Yongqiang <lyqscmy@163.com>"]
+
+[dependencies]
+byteorder = "1.2.2"
+log = "0.4.1"
+env_logger = "0.5.10"
